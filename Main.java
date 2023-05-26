@@ -18,7 +18,7 @@ import java.util.zip.ZipOutputStream;
 
 //	Fahri Sahin		22120205001
 //	Burak Guven		22120205016
-//	Emre Said Yuce	22120205014
+//	Emre Said Yuce		22120205014
 
 // Metotların tanımlandığı class:
 class commands {
